@@ -1,2 +1,2 @@
 "use strict";
-console.log("verizija 02");
+console.log("verizija 03git ");
